@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "name": "علی رضایی",
+    "skill_level": 2,
+    "hourly_cost": 84252.0,
+    "skills": [
+      "communication",
+      "leadership",
+      "management"
+    ],
+    "experience_years": 9.1,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 2,
+    "name": "مریم احمدی",
+    "skill_level": 2,
+    "hourly_cost": 180384.0,
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "experience_years": 3.4,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 3,
+    "name": "رضا کریمی",
+    "skill_level": 2,
+    "hourly_cost": 175412.0,
+    "skills": [
+      "sales",
+      "marketing",
+      "communication",
+      "hr"
+    ],
+    "experience_years": 7.5,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 4,
+    "name": "سارا حسینی",
+    "skill_level": 2,
+    "hourly_cost": 208997.0,
+    "skills": [
+      "marketing",
+      "finance"
+    ],
+    "experience_years": 4.1,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 5,
+    "name": "محمد محمدی",
+    "skill_level": 4,
+    "hourly_cost": 97376.0,
+    "skills": [
+      "sql",
+      "finance",
+      "sales"
+    ],
+    "experience_years": 7.6,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 6,
+    "name": "زهرا علی‌پور",
+    "skill_level": 5,
+    "hourly_cost": 171159.0,
+    "skills": [
+      "sql",
+      "sales",
+      "analytics"
+    ],
+    "experience_years": 10.1,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 7,
+    "name": "حسین نظری",
+    "skill_level": 4,
+    "hourly_cost": 178150.0,
+    "skills": [
+      "sql",
+      "python",
+      "communication",
+      "marketing"
+    ],
+    "experience_years": 4.2,
+    "is_available": false,
+    "preferred_branch": null
+  },
+  {
+    "id": 8,
+    "name": "الناز شیری",
+    "skill_level": 3,
+    "hourly_cost": 227302.0,
+    "skills": [
+      "analytics",
+      "hr",
+      "finance"
+    ],
+    "experience_years": 2.8,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 9,
+    "name": "امیر طاهری",
+    "skill_level": 4,
+    "hourly_cost": 199309.0,
+    "skills": [
+      "sql",
+      "management",
+      "communication",
+      "leadership"
+    ],
+    "experience_years": 6.1,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 10,
+    "name": "نگین مرادی",
+    "skill_level": 3,
+    "hourly_cost": 196384.0,
+    "skills": [
+      "communication",
+      "python"
+    ],
+    "experience_years": 9.9,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 11,
+    "name": "کیان رستمی",
+    "skill_level": 2,
+    "hourly_cost": 115867.0,
+    "skills": [
+      "finance",
+      "communication",
+      "hr",
+      "sales"
+    ],
+    "experience_years": 10.7,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 12,
+    "name": "دینا محمدی",
+    "skill_level": 3,
+    "hourly_cost": 125030.0,
+    "skills": [
+      "sales",
+      "leadership"
+    ],
+    "experience_years": 3.9,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 13,
+    "name": "آرمان صادقی",
+    "skill_level": 5,
+    "hourly_cost": 141539.0,
+    "skills": [
+      "sales",
+      "hr"
+    ],
+    "experience_years": 2.0,
+    "is_available": false,
+    "preferred_branch": null
+  },
+  {
+    "id": 14,
+    "name": "هستی رحیمی",
+    "skill_level": 2,
+    "hourly_cost": 105983.0,
+    "skills": [
+      "marketing",
+      "sql"
+    ],
+    "experience_years": 5.2,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 15,
+    "name": "بهمن احمدی",
+    "skill_level": 5,
+    "hourly_cost": 169949.0,
+    "skills": [
+      "python",
+      "sql",
+      "analytics",
+      "marketing"
+    ],
+    "experience_years": 8.1,
+    "is_available": false,
+    "preferred_branch": null
+  },
+  {
+    "id": 16,
+    "name": "نازنین عباسی",
+    "skill_level": 5,
+    "hourly_cost": 106887.0,
+    "skills": [
+      "analytics",
+      "sales"
+    ],
+    "experience_years": 9.4,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 17,
+    "name": "پوریا کاظمی",
+    "skill_level": 2,
+    "hourly_cost": 227988.0,
+    "skills": [
+      "sales",
+      "communication",
+      "management"
+    ],
+    "experience_years": 5.1,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 18,
+    "name": "سیمین نوروزی",
+    "skill_level": 2,
+    "hourly_cost": 181821.0,
+    "skills": [
+      "python",
+      "sql",
+      "finance"
+    ],
+    "experience_years": 10.7,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 19,
+    "name": "ارشیا حیدری",
+    "skill_level": 4,
+    "hourly_cost": 120707.0,
+    "skills": [
+      "leadership",
+      "sql"
+    ],
+    "experience_years": 1.9,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 20,
+    "name": "مینا قاسمی",
+    "skill_level": 2,
+    "hourly_cost": 246257.0,
+    "skills": [
+      "management",
+      "leadership",
+      "hr",
+      "analytics"
+    ],
+    "experience_years": 2.8,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 21,
+    "name": "علی رضایی 21",
+    "skill_level": 5,
+    "hourly_cost": 243942.0,
+    "skills": [
+      "communication",
+      "analytics",
+      "marketing",
+      "finance"
+    ],
+    "experience_years": 8.1,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 22,
+    "name": "مریم احمدی 22",
+    "skill_level": 5,
+    "hourly_cost": 100571.0,
+    "skills": [
+      "sql",
+      "finance"
+    ],
+    "experience_years": 1.2,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 23,
+    "name": "رضا کریمی 23",
+    "skill_level": 3,
+    "hourly_cost": 81222.0,
+    "skills": [
+      "python",
+      "communication",
+      "sql",
+      "leadership"
+    ],
+    "experience_years": 10.5,
+    "is_available": false,
+    "preferred_branch": null
+  },
+  {
+    "id": 24,
+    "name": "سارا حسینی 24",
+    "skill_level": 3,
+    "hourly_cost": 127341.0,
+    "skills": [
+      "communication",
+      "sales",
+      "management"
+    ],
+    "experience_years": 9.0,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 25,
+    "name": "محمد محمدی 25",
+    "skill_level": 5,
+    "hourly_cost": 121310.0,
+    "skills": [
+      "marketing",
+      "communication",
+      "sql"
+    ],
+    "experience_years": 2.1,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 26,
+    "name": "زهرا علی‌پور 26",
+    "skill_level": 5,
+    "hourly_cost": 149887.0,
+    "skills": [
+      "python",
+      "sql",
+      "leadership",
+      "communication"
+    ],
+    "experience_years": 9.0,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 27,
+    "name": "حسین نظری 27",
+    "skill_level": 2,
+    "hourly_cost": 122272.0,
+    "skills": [
+      "sales",
+      "hr"
+    ],
+    "experience_years": 2.5,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 28,
+    "name": "الناز شیری 28",
+    "skill_level": 5,
+    "hourly_cost": 122467.0,
+    "skills": [
+      "hr",
+      "sales"
+    ],
+    "experience_years": 2.1,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 29,
+    "name": "امیر طاهری 29",
+    "skill_level": 2,
+    "hourly_cost": 244729.0,
+    "skills": [
+      "management",
+      "marketing"
+    ],
+    "experience_years": 6.3,
+    "is_available": true,
+    "preferred_branch": null
+  },
+  {
+    "id": 30,
+    "name": "نگین مرادی 30",
+    "skill_level": 5,
+    "hourly_cost": 233415.0,
+    "skills": [
+      "marketing",
+      "python"
+    ],
+    "experience_years": 11.8,
+    "is_available": true,
+    "preferred_branch": null
+  }
+]

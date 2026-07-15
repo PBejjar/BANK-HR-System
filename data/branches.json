@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "شعبه مرکزی",
+    "location": "تهران",
+    "transaction_volume": 1081,
+    "required_skill_min": 2,
+    "min_employees": 2,
+    "max_employees": 8,
+    "budget": 42690225.0
+  },
+  {
+    "id": 2,
+    "name": "شعبه شرق",
+    "location": "مشهد",
+    "transaction_volume": 1146,
+    "required_skill_min": 1,
+    "min_employees": 2,
+    "max_employees": 6,
+    "budget": 35696936.0
+  },
+  {
+    "id": 3,
+    "name": "شعبه غرب",
+    "location": "اصفهان",
+    "transaction_volume": 595,
+    "required_skill_min": 1,
+    "min_employees": 2,
+    "max_employees": 5,
+    "budget": 47375409.0
+  },
+  {
+    "id": 4,
+    "name": "شعبه شمال",
+    "location": "رشت",
+    "transaction_volume": 274,
+    "required_skill_min": 3,
+    "min_employees": 2,
+    "max_employees": 5,
+    "budget": 39408144.0
+  },
+  {
+    "id": 5,
+    "name": "شعبه جنوب",
+    "location": "شیراز",
+    "transaction_volume": 252,
+    "required_skill_min": 3,
+    "min_employees": 2,
+    "max_employees": 6,
+    "budget": 44303656.0
+  }
+]
